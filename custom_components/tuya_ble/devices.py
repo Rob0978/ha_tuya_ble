@@ -187,7 +187,7 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
                 [
                     "ludzroix",
                     "isk2p555",
-                    ""s0z27qrx"
+                    "s0z27qrx"
                 ],
                     TuyaBLEProductInfo(  # device product_id
                     name="Smart Lock",
